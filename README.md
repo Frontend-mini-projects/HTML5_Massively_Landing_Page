@@ -1,6 +1,7 @@
 # HTML5 Massively Landing Page
 
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/desgin/Preview%20Image.jpg)
+![Home  Desktop](https://github.com/Frontend-mini-projects/HTML5_Massively_Landing_Page/assets/63789702/f854372c-c88f-4ade-ad28-086eab4d5ea4)
+
 
 ## Introduction
 
